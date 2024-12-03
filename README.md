@@ -15,37 +15,18 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="37" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=css" height="37" alt="css3 logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="37" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=react" height="37" alt="react logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=php" height="37" alt="php logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="37" alt="mysql logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=py" height="37" alt="python logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="37" alt="jquery logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=jest" height="37" alt="jest logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=github" height="37" alt="github logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="37" alt="npm logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=postman" height="37" alt="postman logo"  />
-  <img width="9" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="37" alt="canva logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=figma" height="37" alt="figma logo"  />
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react" />
+  </div>
+  <img />
+  <div>
+    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,express,mongodb" />
+  </div>
+  <img />
+  <div>
+    <img src="https://skillicons.dev/icons?i=py,jquery,jest,git,github,gitlab,postman,npm,figma" />
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="canva logo"  />
+  </div>  
 </div>
 
 ###
