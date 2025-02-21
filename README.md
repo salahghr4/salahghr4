@@ -16,11 +16,11 @@
 
 <div align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind" />
   </div>
   <img />
   <div>
-    <img src="https://skillicons.dev/icons?i=mysql,php,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,laravel,nodejs,express,mongodb" />
   </div>
   <img />
   <div>
@@ -37,13 +37,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salaheddine-elgharabi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
   <a href="mailto:salahedding.elgharabi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/683772121729597572" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord logo"  />
   </a>
 </div>
 
