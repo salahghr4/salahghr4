@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/salaheddine-elgharabi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"  />
   </a>
-  <a href="mailto:salahedding.elgharabi@gmail.com" target="_blank">
+  <a href="mailto:salaheddine.elgharabi@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/683772121729597572" target="_blank">
